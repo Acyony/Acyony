@@ -23,6 +23,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}### Hi there I'm Alcione Ribeiro 👋
-2
-​
-3
