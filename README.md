@@ -2,6 +2,10 @@
   <h3>Hi there I'm Alcione Ribeiro 👋 </h3>
 </div>
 
+<div align="center">
+  <p>A passionate full stack developer junior from Brazil.</p>
+</div>
+
 <!-- 
 - 🔭 I’m currently working on learning how to code. I want be a great web developer!
 - 🌱 I’m currently learning JavaScript
