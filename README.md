@@ -4,9 +4,9 @@
 
 <div align="left">
   <div>
-  <p>A passionate full stack developer junior from Brazil living in Berlin-Germany.
-     I am a new Software Developer just graduated, with a bachelor degree in Agricultural engineering. 
-    I am a very proactive person, always giving my best to keep updated to the most recent frontend technologies and processes.
+  <p align="justify">
+    I am a junior full-stack Software Developer with a driving passion for technology and problem-solving. I am a self-starter known for my excellent interpersonal skills and great enthusiasm.
+
   </p>
       </div>
 </div>
