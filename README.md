@@ -5,7 +5,8 @@
 <div align="left">
   <div>
   <p align="justify">
-    I am a junior full-stack Software Developer with a driving passion for technology and problem-solving. I am a self-starter known for my excellent interpersonal skills and great enthusiasm.
+   I am a junior full-stack Software Developer with a driving passion for technology and problem-solving. I am a self-starter known for my excellent interpersonal skills and great enthusiasm. <br>
+I have nearly one year of programming experience. Additionally, I was selected by Zalando to participate in their first mentoring program - Stepz Mentoring program, and I have got an Internship position by EngineeringAngel to develop web API's in Go and to manage services in a Google Cloud environment.
 
   </p>
       </div>
