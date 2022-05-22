@@ -2,7 +2,7 @@
   <h3>Hi there I'm Alcione Ribeiro 👋 </h3>
 </div>
 
-<div align="center">
+<div align="center" margin-bottom="10em">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acyony/Acyony/main/images/dunetocat-dark.png" width="50%" height="100%">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/Acyony/Acyony/main/images/femalecodertocat-day.png" width="50%" height="100%">
