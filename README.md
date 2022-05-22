@@ -2,9 +2,9 @@
   <h3>Hi there I'm Alcione Ribeiro 👋 </h3>
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="./images/dunetocat-dark.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./images/femalecodertocat-day.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[./images/dunetocat-dark.png](https://raw.githubusercontent.com/Acyony/Acyony/main/images/dunetocat-dark.png)">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="[./images/femalecodertocat-day.png](https://raw.githubusercontent.com/Acyony/Acyony/main/images/femalecodertocat-day.png)">
 </picture>
 
 <div align="left">
