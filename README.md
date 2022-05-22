@@ -3,11 +3,12 @@
 </div>
 
 <div align="center">
-<picture style="margin-bottom: 2rem;">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acyony/Acyony/main/images/dunetocat-dark.png" width="50%" height="100%">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/Acyony/Acyony/main/images/femalecodertocat-day.png" width="50%" height="100%">
 </picture>
 </div>
+<br/>
 <div align="left">
   <div>
   <p align="justify">
