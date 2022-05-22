@@ -3,8 +3,8 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[./images/dunetocat-dark.png](https://raw.githubusercontent.com/Acyony/Acyony/main/images/dunetocat-dark.png)" width="100%" height="100">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="[./images/femalecodertocat-day.png](https://raw.githubusercontent.com/Acyony/Acyony/main/images/femalecodertocat-day.png)" width="100%" height="100">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acyony/Acyony/main/images/dunetocat-dark.png" width="100%" height="100">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/Acyony/Acyony/main/images/femalecodertocat-day.png" width="100%" height="100">
 </picture>
 
 <div align="left">
