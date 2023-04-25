@@ -41,15 +41,31 @@ I have nearly one year of programming experience. Additionally, I was selected b
   <h3> My skils ands tools:</h3>
 <div style="display: inline_block">
   <img align="center" alt="Acyony-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Acyony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Acyony-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Acyony-NodeJs" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img align="center" alt="Acyony-NodeJs" height="60" width="80"  src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
+   <br>
+   <br>
   <img align="center" alt="Acyony-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Acyony-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <br>
+   <br>
+  <img align="center" alt="Acyony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <br>
+   <br>
+  <img align="center" alt="Acyony-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   <br>
+  <img align="center" alt="Acyony-NodeJs" height="60" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="center" alt="Acyony-NodeJs" height="60" width="80"  src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" />
+  <br>
   <img align="center" alt="Acyony-SASS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Acyony-Bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="Acyony-TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    <br>
+    <br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img align="center" height="30" width="80" src=https://user-images.githubusercontent.com/841294/53402609-b97a2180-39ba-11e9-8100-812bab86357c.png />
+  
+          
 </div>
   <h3> I'm learning:</h3>
 <div style="display: inline_block">
