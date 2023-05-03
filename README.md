@@ -87,8 +87,7 @@ I have nearly one year of programming experience. Additionally, I was selected b
     <br>
     <br>
     <div style="display: inline_block" align="center">
-    <img  alt="Acyony-Gopher" width="500"  src="https://user-images.githubusercontent.com/42450397/183300347-8f5c7a08-7799-47d7-914d-2f68f273e55c.jpeg"/>
-    <img  alt="Acyony-Gopher" width="500"  src="https://user-images.githubusercontent.com/42450397/188260165-4d4c5c7e-3122-4c2e-a594-aac768a5c8f4.jpg"/>
+      <img  alt="Acyony-Gopher" width="500"  src="https://user-images.githubusercontent.com/42450397/235958119-ac1dd95b-4939-46cd-b04d-d43885a2f028.JPG"/>
     </div>
     <br>
   <p>Do you want to learn how to do your own Gopher?
