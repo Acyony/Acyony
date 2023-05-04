@@ -87,7 +87,7 @@ I have nearly one year of programming experience. Additionally, I was selected b
     <br>
     <br>
     <div style="display: inline_block" align="center">
-      <img  alt="Acyony-Gopher" width="500"  src="https://user-images.githubusercontent.com/42450397/235958119-ac1dd95b-4939-46cd-b04d-d43885a2f028.JPG"/>
+      <img  alt="Acyony-Gopher" width="500"  src="https://user-images.githubusercontent.com/42450397/236236103-050bfb88-3b67-48d5-8b93-ca5e2204514d.JPG"/>
     </div>
     <br>
   <p>Do you want to learn how to do your own Gopher?
