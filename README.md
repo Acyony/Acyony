@@ -90,13 +90,18 @@ I have nearly one year of programming experience. Additionally, I was selected b
       <img  alt="Acyony-Gopher" width="500"  src="https://user-images.githubusercontent.com/42450397/236236103-050bfb88-3b67-48d5-8b93-ca5e2204514d.JPG"/>
     </div>
     <br>
-  <p>Do you want to learn how to do your own Gopher?
+  <p>Do you want to learn to do your own Gopher?
      The link below may help you :D   <br>
     <a href="https://github.com/Acyony/gopher-pattern">Click here!</a>
     </p>
      <br>
-      You can also follow the profile i created to share the Gophers i crocheted recently
-      https://www.instagram.com/forallgopherskind?igsh=MXRqOWVyb3VqdnIwZQ%3D%3D&utm_source=qr
+    <p>You can check out the profile I created to showcase the Gophers I've crocheted recently.  
+    <br>
+    <a href="https://www.instagram.com/forallgopherskind?igsh=MXRqOWVyb3VqdnIwZQ%3D%3D&utm_source=qr">@ForAllGophersKind</a>
+</p>
+
+      
+      
 </div>
   <br>
    <h3> Connect with me:</h3>
