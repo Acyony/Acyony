@@ -94,7 +94,9 @@ I have nearly one year of programming experience. Additionally, I was selected b
      The link below may help you :D   <br>
     <a href="https://github.com/Acyony/gopher-pattern">Click here!</a>
     </p>
-     
+     <br>
+      You can also follow the profile i created to share the Gophers i crocheted recently
+      https://www.instagram.com/forallgopherskind?igsh=MXRqOWVyb3VqdnIwZQ%3D%3D&utm_source=qr
 </div>
   <br>
    <h3> Connect with me:</h3>
